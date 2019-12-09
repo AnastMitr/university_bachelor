@@ -1,0 +1,10 @@
+M:\Учеба\Материалы 4 курс\7 семестр\Интегрированные системы\lab2\ClientSharp\bin\Debug\ClientSharp.exe.config
+M:\Учеба\Материалы 4 курс\7 семестр\Интегрированные системы\lab2\ClientSharp\bin\Debug\ClientSharp.exe
+M:\Учеба\Материалы 4 курс\7 семестр\Интегрированные системы\lab2\ClientSharp\bin\Debug\ClientSharp.pdb
+M:\Учеба\Материалы 4 курс\7 семестр\Интегрированные системы\lab2\ClientSharp\obj\Debug\ClientSharp.Form1.resources
+M:\Учеба\Материалы 4 курс\7 семестр\Интегрированные системы\lab2\ClientSharp\obj\Debug\ClientSharp.Properties.Resources.resources
+M:\Учеба\Материалы 4 курс\7 семестр\Интегрированные системы\lab2\ClientSharp\obj\Debug\ClientSharp.csproj.GenerateResource.cache
+M:\Учеба\Материалы 4 курс\7 семестр\Интегрированные системы\lab2\ClientSharp\obj\Debug\ClientSharp.csproj.CoreCompileInputs.cache
+M:\Учеба\Материалы 4 курс\7 семестр\Интегрированные системы\lab2\ClientSharp\obj\Debug\ClientSharp.exe
+M:\Учеба\Материалы 4 курс\7 семестр\Интегрированные системы\lab2\ClientSharp\obj\Debug\ClientSharp.pdb
+M:\Учеба\Материалы 4 курс\7 семестр\Интегрированные системы\lab2\ClientSharp\obj\Debug\ClientSharp.csprojAssemblyReference.cache
