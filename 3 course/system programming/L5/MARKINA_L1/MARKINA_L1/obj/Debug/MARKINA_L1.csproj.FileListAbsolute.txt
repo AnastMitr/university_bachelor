@@ -1,0 +1,39 @@
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\MARKINA_L1\bin\Debug\MARKINA_L1.exe.config
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\MARKINA_L1\bin\Debug\MARKINA_L1.exe
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\MARKINA_L1\bin\Debug\MARKINA_L1.pdb
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.Form1.resources
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.csproj.GenerateResource.cache
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.exe
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.pdb
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\Debug\MARKINA_L1.exe.config
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\Debug\MARKINA_L1.exe
+C:\Users\1\Documents\Visual Studio 2017\Projects\L1\MARKINA_L1\Debug\MARKINA_L1.pdb
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L3\MARKINA_L1\Debug\MARKINA_L1.exe.config
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L3\MARKINA_L1\Debug\MARKINA_L1.exe
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L3\MARKINA_L1\Debug\MARKINA_L1.pdb
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L3\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.Form1.resources
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L3\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.Properties.Resources.resources
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L3\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L3\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L3\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.exe
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L3\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.pdb
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L4\MARKINA_L1\Debug\MARKINA_L1.exe.config
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L4\MARKINA_L1\Debug\MARKINA_L1.exe
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L4\MARKINA_L1\Debug\MARKINA_L1.pdb
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L4\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.Form1.resources
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L4\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.Properties.Resources.resources
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L4\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L4\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L4\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.exe
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L4\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.pdb
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L5\MARKINA_L1\Debug\MARKINA_L1.exe.config
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L5\MARKINA_L1\Debug\MARKINA_L1.exe
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L5\MARKINA_L1\Debug\MARKINA_L1.pdb
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L5\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.Form1.resources
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L5\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.Properties.Resources.resources
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L5\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L5\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L5\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.exe
+C:\Users\1\Desktop\Учеба\Материал 3 курс\6 семестр\Системное программирование\L5\MARKINA_L1\MARKINA_L1\obj\Debug\MARKINA_L1.pdb

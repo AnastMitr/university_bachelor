@@ -1,0 +1,6 @@
+Start thread 0
+Start thread 1
+Start thread 2
+Start thread 3
+Receive message:  555  for thread   3
+Message was print. Thread 1

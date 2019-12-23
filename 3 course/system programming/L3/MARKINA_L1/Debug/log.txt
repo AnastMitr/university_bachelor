@@ -1,0 +1,2 @@
+Start thread 1
+Start thread 2

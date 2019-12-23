@@ -1,0 +1,71 @@
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+Пришло событие    0
+Подключились к каналу
+Отправили событие 0
+Пришло потоков 1
+Пришло событие    0
+Подключились к каналу
+Отправили событие 0
+Пришло потоков 2
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+Пришло событие    0
+Подключились к каналу
+Отправили событие 0
+Пришло потоков 3
+Пришло событие    0
+Подключились к каналу
+Отправили событие 0
+Пришло потоков 4
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+Пришло событие    0
+Подключились к каналу
+Отправили событие 0
+Пришло потоков 1
+Пришло событие    0
+Подключились к каналу
+Отправили событие 0
+Пришло потоков 2
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+Пришло событие    0
+Подключились к каналу
+Отправили событие 0
+Пришло потоков 3
+Пришло событие    0
+Подключились к каналу
+Отправили событие 0
+Пришло потоков 4
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4
+GetCountThread(int id_event) 4
+Create
+Отправили событие 4

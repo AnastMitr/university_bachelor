@@ -1,0 +1,19 @@
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\Kamshilov_csh\Kamshilov_csh\bin\Debug\Kamshilov_csh.exe.config
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\Kamshilov_csh\Debug\Kamshilov_csh.exe.config
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\Kamshilov_csh\Debug\Kamshilov_csh.exe
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\Kamshilov_csh\Debug\Kamshilov_csh.pdb
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.Form1.resources
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.Properties.Resources.resources
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.csproj.GenerateResource.Cache
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.exe
+C:\Users\Кристина\Documents\РГУНГ\6 семестр\Леонов\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.pdb
+C:\Users\us211\Downloads\Kamshilov_csh_rarroma\Kamshilov_csh\Debug\Kamshilov_csh.exe.config
+C:\Users\us211\Downloads\Kamshilov_csh_rarroma\Kamshilov_csh\Debug\Kamshilov_csh.exe
+C:\Users\us211\Downloads\Kamshilov_csh_rarroma\Kamshilov_csh\Debug\Kamshilov_csh.pdb
+C:\Users\us211\Downloads\Kamshilov_csh_rarroma\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.Form1.resources
+C:\Users\us211\Downloads\Kamshilov_csh_rarroma\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.Properties.Resources.resources
+C:\Users\us211\Downloads\Kamshilov_csh_rarroma\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.csproj.GenerateResource.cache
+C:\Users\us211\Downloads\Kamshilov_csh_rarroma\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.csproj.CoreCompileInputs.cache
+C:\Users\us211\Downloads\Kamshilov_csh_rarroma\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.exe
+C:\Users\us211\Downloads\Kamshilov_csh_rarroma\Kamshilov_csh\Kamshilov_csh\obj\Debug\Kamshilov_csh.pdb

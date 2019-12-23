@@ -1,0 +1,10 @@
+C:\dl\Lessons\SysProg\2019\L1\Debug\L1Sharp.exe.config
+C:\dl\Lessons\SysProg\2019\L1\Debug\L1Sharp.exe
+C:\dl\Lessons\SysProg\2019\L1\Debug\L1Sharp.pdb
+C:\dl\Lessons\SysProg\2019\L1\L1Sharp\obj\Debug\L1Sharp.Form1.resources
+C:\dl\Lessons\SysProg\2019\L1\L1Sharp\obj\Debug\L1Sharp.Properties.Resources.resources
+C:\dl\Lessons\SysProg\2019\L1\L1Sharp\obj\Debug\L1Sharp.csproj.GenerateResource.Cache
+C:\dl\Lessons\SysProg\2019\L1\L1Sharp\obj\Debug\L1Sharp.csproj.CoreCompileInputs.cache
+C:\dl\Lessons\SysProg\2019\L1\L1Sharp\obj\Debug\L1Sharp.exe
+C:\dl\Lessons\SysProg\2019\L1\L1Sharp\obj\Debug\L1Sharp.pdb
+C:\dl\Lessons\SysProg\2019\L1\L1Sharp\obj\Debug\L1Sharp.csprojAssemblyReference.cache
